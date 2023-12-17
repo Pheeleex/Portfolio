@@ -14,21 +14,9 @@ import {
     redux,
     tailwind,
     fire,
-    nodejs,
-    mongodb,
     git,
     figma,
     steeze,
-    docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
-    carrent,
-    oyster,
-    jobit,
-    tripguide,
-    threejs,
     pfin
   } from "../assets";
   
