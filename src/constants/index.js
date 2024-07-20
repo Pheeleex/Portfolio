@@ -17,7 +17,8 @@ import {
     git,
     figma,
     steeze,
-    pfin
+    pfin,
+    Apple
   } from "../assets";
   
   export const navLinks = [
@@ -37,16 +38,16 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
-      icon: web,
+      title: "Software Developer",
+      icon: backend,
     },
     {
       title: "React Developer",
       icon: mobile,
     },
     {
-      title: "Software Developer",
-      icon: backend,
+      title: "Web Developer",
+      icon: web,
     },
     {
       title: "Content Writer",
@@ -172,8 +173,8 @@ import {
         },
       ],
       image: estate,
-      demo_link:'https://propertyapp-beryl.vercel.app/',
-      source_code_link: "https://github.com/Pheeleex/Propertyapp",
+      demo_link:'https://real-estate-app-umber-zeta.vercel.app/',
+      source_code_link: "https://github.com/Pheeleex/Real-estateApp",
     },
     {
       name: "Oyster Finance",
@@ -200,7 +201,7 @@ import {
     {
       name: "Oyster steeze",
       description:
-        "A modern ecommerce store that lets users customise their clothes from start to finish. Includes cool effects and animations from three library",
+        "We all love personalised products, even your customers, check out this 3D tshirt customiser and see how much your product needs one, peep the cool animations from three library",
       tags: [
         {
           name: "reactjs",
@@ -216,6 +217,28 @@ import {
         },
       ],
       image: steeze,
+      demo_link:'https://modern-estore.vercel.app/',
+      source_code_link: "https://github.com/Pheeleex/Modern-Estore",
+    },
+    {
+      name: "Apple Clone Website",
+      description:
+        "A mix of great advertising, aesthetics and functionality, cloning the landing showcases my skills in; turning designs to code, paying attention to advertising and SEO key words, paying attention to brand placement and brand identity.",
+      tags: [
+        {
+          name: "reactjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "threejs",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: Apple,
       demo_link:'https://modern-estore.vercel.app/',
       source_code_link: "https://github.com/Pheeleex/Modern-Estore",
     },
