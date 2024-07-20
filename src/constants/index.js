@@ -18,7 +18,8 @@ import {
     figma,
     steeze,
     pfin,
-    Apple
+    Apple,
+    Auto
   } from "../assets";
   
   export const navLinks = [
@@ -171,6 +172,10 @@ import {
           name: "tailwind",
           color: "pink-text-gradient",
         },
+        {
+          name: "firebase",
+          color: "yellow-text-gradient",
+        },
       ],
       image: estate,
       demo_link:'https://real-estate-app-umber-zeta.vercel.app/',
@@ -190,7 +195,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "bootstrap",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
@@ -212,7 +217,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwindcss",
           color: "pink-text-gradient",
         },
       ],
@@ -226,6 +231,28 @@ import {
         "A mix of great advertising, aesthetics and functionality, cloning the landing showcases my skills in; turning designs to code, paying attention to advertising and SEO key words, paying attention to brand placement and brand identity.",
       tags: [
         {
+          name: "Nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "threejs",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwindcss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: Apple,
+      demo_link:'https://github.com/Pheeleex/iPhoneClone-oyster',
+      source_code_link: "https://github.com/Pheeleex/iPhoneClone-oyster",
+    },
+    {
+      name: "Car booking app",
+      description:
+        "A mix of great advertising, aesthetics and functionality, cloning the landing showcases my skills in; turning designs to code, paying attention to advertising and SEO key words, paying attention to brand placement and brand identity.",
+      tags: [
+        {
           name: "reactjs",
           color: "blue-text-gradient",
         },
@@ -234,13 +261,13 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwindcss",
           color: "pink-text-gradient",
         },
       ],
-      image: Apple,
-      demo_link:'https://modern-estore.vercel.app/',
-      source_code_link: "https://github.com/Pheeleex/Modern-Estore",
+      image: Auto,
+      demo_link:'https://github.com/Pheeleex/carbooking/tree/main',
+      source_code_link: "https://carbooking-psi.vercel.app/",
     },
   ];
   

@@ -5,6 +5,7 @@ import mobile from "./mobile.png";
 import web from "./web.png";
 
 import Apple from "./tech/Appleclone.png"
+import Auto from "./carbooking.png"
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -44,6 +45,7 @@ export {
   mobile,
   web,
   Apple,
+  Auto,
   github,
   pfin,
   oyster,
